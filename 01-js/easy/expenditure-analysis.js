@@ -9,6 +9,7 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
+  // let's start the code whichn you want to write here.
   return [];
 }
 
